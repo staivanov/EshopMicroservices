@@ -28,3 +28,9 @@ P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\
 P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.Contracts.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\BuildingBlocks.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\BuildingBlocks.pdb
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.AssemblyReference.cache
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog..F07FDCDC.Up2Date
