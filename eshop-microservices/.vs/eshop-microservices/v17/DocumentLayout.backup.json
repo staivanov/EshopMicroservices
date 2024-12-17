@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "P:\\Microservices\\eshop-microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC4064CD-B8FF-4461-A9A3-44C0FE435CDB}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|p:\\microservices\\eshop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FC4064CD-B8FF-4461-A9A3-44C0FE435CDB}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FC4064CD-B8FF-4461-A9A3-44C0FE435CDB}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|p:\\microservices\\eshop-microservices\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4064CD-B8FF-4461-A9A3-44C0FE435CDB}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|p:\\microservices\\eshop-microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC4064CD-B8FF-4461-A9A3-44C0FE435CDB}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|p:\\microservices\\eshop-microservices\\src\\services\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4064CD-B8FF-4461-A9A3-44C0FE435CDB}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|p:\\microservices\\eshop-microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|p:\\microservices\\eshop-microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|p:\\microservices\\eshop-microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|p:\\microservices\\eshop-microservices\\src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7BB117B-A909-4977-AFF2-4A7359931261}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
+              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:47:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildingBlocks",
+              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T11:18:31.228Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -83,66 +101,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Catalog.API",
-              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-17T09:36:47.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IQueryHandler.cs",
-              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T09:33:00.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T09:18:32.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IQuery.cs",
-              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:54:56.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
-              "ToolTip": "P:\\Microservices\\eshop-microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:48:52.116Z",
+              "WhenOpened": "2024-12-17T11:14:57.057Z",
               "EditorCaption": ""
             }
           ]

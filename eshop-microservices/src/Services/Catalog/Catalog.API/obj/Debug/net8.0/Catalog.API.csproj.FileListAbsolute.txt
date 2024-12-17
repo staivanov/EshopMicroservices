@@ -34,3 +34,8 @@ P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\
 P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\BuildingBlocks.pdb
 P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.AssemblyReference.cache
 P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog..F07FDCDC.Up2Date
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Carter.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Mapster.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Mapster.Core.dll
+P:\Microservices\eshop-microservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
